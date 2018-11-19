@@ -94,16 +94,15 @@ if (!function_exists('tz_list')){
 } 
 
 function install(){ 
-	$CI = &get_instance(); 
-	$db_host = $CI->input->post("db_host"); 
-	$db_name = $CI->input->post("db_name"); 
-	$db_user = $CI->input->post("db_user"); 
-	$db_pass = $CI->input->post("db_pass"); 
-	$admin_fullname = $CI->input->post("admin_fullname"); 
-	$admin_email = $CI->input->post("admin_email"); 
-	$admin_pass = $CI->input->post("admin_pass"); 
-	$admin_timezone = $CI->input->post("admin_timezone"); 
-	$purchase_code = $CI->input->post("purchase_code"); 
+	$db_host = 'localhost';
+	$db_name = 'advertising';
+	$db_user = 'advertising';
+	$db_pass = 'A4UIee1995';
+	$admin_fullname = 'admin';
+	$admin_email = 'maggieandpatric@icloud.com';
+	$admin_pass = 'A4UIee1995';
+	$admin_timezone = 'Europe/Sofia';
+	$purchase_code = '5ad53b45-cb7d-4553-af75-4102bd14ea09';
 	$output_filename = "install.zip"; 
 
 	if (!($db_host && $db_name && $db_user && $admin_fullname && $admin_email && $admin_pass && $admin_timezone && $purchase_code)) { 
