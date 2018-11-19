@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/app/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/app/vendor/lazyjsonmapper/lazyjsonmapper" />
+      <path value="$PROJECT_DIR$/app/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/app/vendor/binsoul/net-mqtt" />
+      <path value="$PROJECT_DIR$/app/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/app/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/app/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/app/vendor/binsoul/net-mqtt-client-react" />
+      <path value="$PROJECT_DIR$/app/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/app/vendor/matthiasmullie/path-converter" />
+      <path value="$PROJECT_DIR$/app/vendor/winbox/args" />
+      <path value="$PROJECT_DIR$/app/vendor/matthiasmullie/minify" />
+      <path value="$PROJECT_DIR$/app/vendor/paypal/rest-api-sdk-php" />
+      <path value="$PROJECT_DIR$/app/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/app/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/app/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/app/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/app/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/app/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/app/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/app/vendor/corneltek/getoptionkit" />
+      <path value="$PROJECT_DIR$/app/vendor/jbzoo/data" />
+      <path value="$PROJECT_DIR$/app/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/app/vendor/jbzoo/utils" />
+      <path value="$PROJECT_DIR$/app/vendor/composer" />
+      <path value="$PROJECT_DIR$/app/vendor/jbzoo/image" />
+      <path value="$PROJECT_DIR$/app/vendor/netresearch/jsonmapper" />
+      <path value="$PROJECT_DIR$/app/vendor/clue/socks-react" />
+      <path value="$PROJECT_DIR$/app/vendor/clue/http-proxy-react" />
+      <path value="$PROJECT_DIR$/app/vendor/php-curl-class/php-curl-class" />
+      <path value="$PROJECT_DIR$/app/vendor/valga/fbns-react" />
+      <path value="$PROJECT_DIR$/app/vendor/ringcentral/psr7" />
+      <path value="$PROJECT_DIR$/app/vendor/eher/oauth" />
+    </include_path>
+  </component>
+</project>
